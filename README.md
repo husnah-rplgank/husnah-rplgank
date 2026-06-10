@@ -1,4 +1,4 @@
-  <img src="(https://i.pinimg.com/originals/93/6d/75/936d75264570439ac151d87b2aaeac90.gif)" alt="Kakyoin Greatings" width="300">
+<img src="https://i.pinimg.com/originals/93/6d/75/936d75264570439ac151d87b2aaeac90.gif" alt="Kakyoin Greetings" width="300">
   <br>
   <i>"HAI! WELCOME TO MY GITHUB PROFILE" - Husnah, probably.</i>
   
@@ -26,5 +26,5 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=husnah_rplgank&show_icons=true&theme=gotham)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=husnah_rplgank&layout=compact&theme=gotham)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=husnah-rplgank&show_icons=true&theme=gotham)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=husnah-rplgank&layout=compact&theme=gotham)
