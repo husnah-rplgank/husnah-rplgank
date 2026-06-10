@@ -9,15 +9,22 @@
 ### 👤 About Me
 
 🔭 I’m currently studying at **SMK Muhammadiyah 3 Tangerang Selatan** (Software Engineering / PPLG)
+<br><br>
 🌱 I’m currently learning **Front-End Web Development (HTML, CSS, JavaScript) and UI/UX design fundamentals**
+<br><br>
 👯 I’m looking to collaborate on **creative web layout design and beginner-friendly web projects**
+<br><br>
 🤔 I’m looking for help with **advanced CSS layout strategies and mastering interactive animations**
+<br><br>
 💬 Ask me about **front-end structuring, cafe-aesthetic UI concepts, or why I love themed design palettes**
+<br><br>
 📫 How to reach me: **mutiaraaira21@gmail.com** | **husnahpplg@gmail.com**
+<br><br>
 😄 Pronouns: **She/Her**
+<br><br>
 ⚡ Fun fact: If it isn't obvious by my profile theme, I have a deep **feeling** with Kakyoin Noriaki from JJBA, if u like that anime too, WE CAN BE FRIENDS!
 
-<br>
+<br><br>
 <img src="https://64.media.tumblr.com/73feaee5fabb0249bf5daf3ca4696c15/b3420294e593a063-39/s640x960/3fb2f59703066aeebbd145c98b1db224edeb34c5.gif" alt="Noriaki Kakyoin posing" width="250">
 
 </div>
