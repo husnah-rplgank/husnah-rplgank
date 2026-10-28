@@ -25,7 +25,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools :^
 
 <div align="center">
 
@@ -46,7 +46,7 @@
 
 ---
 
-### 📊 Statistik GitHub
+### Statistik GitHub :)
 
 <div align="center">
 
@@ -57,7 +57,7 @@
 
 ---
 
-### 🟢 Kontribusi GitHub
+### Kontribusi GitHub :O
 
 <div align="center">
 <picture>
@@ -69,7 +69,7 @@
 
 ---
 
-### 📫 Hubungi Saya
+### Hubungi Saya :>
 
 <div align="center">
 
